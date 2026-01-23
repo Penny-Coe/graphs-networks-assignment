@@ -9,4 +9,4 @@ The analysis poses the IMDB-5000 dataset as a network and explores
 network properties, centrality, community detection, and insights.
 
 Main file:
-- Graphs_Networks_Systems_Assignment.ipynb
+- Graphs_Networks_Systems_Assignment_report.ipynb
